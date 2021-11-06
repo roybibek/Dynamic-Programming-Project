@@ -11,4 +11,4 @@ In the chapter, we will go over dynamic programming by breaking it down into thr
 ## Special Thanks
 I want to thank the group as a whole for diligently working on this project and making it the best we can. 
 
-Also, it is important to mention Dr. Jacob as a contributor because he verfied and review the project to ensure that we, as a group, can make it with the best quality.
+Also, it is important to mention Dr. Jacob as a contributor because he verfied and reviewed the project to ensure that we, as a group, can make it with the best quality and factual as possible.
